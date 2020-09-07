@@ -2,6 +2,7 @@
 Self-taught personal android project in Kotlin
 
 # Check out the Demo video
+https://www.youtube.com/watch?v=vdYlHgyqKqY
 
 This project include:
 1. a random Dice roller
