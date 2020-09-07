@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/miDiceRoller"
+        android:title="Dice Roller"
+        android:icon="@drawable/ic_dice_foreground"
+        app:showAsAction="never"
+         />
+
+    <item
+        android:id="@+id/miAboutMe"
+        android:title="About Me Quiz"
+        android:icon="@drawable/ic_person_foreground"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/miTodo"
+        android:title="Todo List"
+        android:icon="@drawable/ic_todo_foreground"
+        app:showAsAction="never
+"
+        />
+
+    <item
+        android:id="@+id/miPicasso"
+        android:title="Picasso"
+        android:icon="@drawable/ic_picasso_foreground"
+        app:showAsAction="never
+"
+        />
+
+    <item
+        android:id="@+id/miInstagram"
+        android:title="Instagram"
+        android:icon="@drawable/ic_instagram_foreground"
+        app:showAsAction="never"
+        />
+
+</menu>
